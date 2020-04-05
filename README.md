@@ -4,7 +4,6 @@
     viewBox="0 0 312 335"
     width="200"
     height="200"
-    class="logo-svg"
     >
     <path
         id="Shape 2"
