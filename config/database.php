@@ -63,6 +63,22 @@ return [
             ]) : [],
         ],
 
+        'acl_db' => [
+            'driver' => 'mysql',
+            'host' => env('DB_HOST', '127.0.0.1'),
+            'port' => env('DB_PORT', '3306'),
+            'database' => env('ACL_DB_DATABASE', 'forge'),
+            'username' => env('ACL_DB_USERNAME', 'forge'),
+            'password' => env('ACL_DB_PASSWORD', ''),
+            'unix_socket' => env('ACL_DB_SOCKET', ''),
+            'charset' => 'utf8mb4',
+            'collation' => 'utf8mb4_unicode_ci',
+            'prefix' => '',
+            'prefix_indexes' => true,
+            'strict' => true,
+            'engine' => null,
+        ],
+
         'pgsql' => [
             'driver' => 'pgsql',
             'url' => env('DATABASE_URL'),
