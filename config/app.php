@@ -28,6 +28,10 @@ return [
 
     'env' => env('APP_ENV', 'production'),
 
+    'theme' => [
+       'desktop' => 'Zento_VueTheme'
+    ],
+
     /*
     |--------------------------------------------------------------------------
     | Application Debug Mode
