@@ -22,7 +22,7 @@
 
 ## About Alphazento
 
-Alphazento is a eCommerce framework base on Laravel. We're glad you chose to install Alphazento, a cutting-edge, feature-rich eCommerce solution that gets results.
+Alphazento is an eCommerce framework base on Laravel. We're glad you chose to install Alphazento, a cutting-edge, feature-rich eCommerce solution that gets results.
 
 ## System Requirements
 
